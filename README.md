@@ -54,7 +54,7 @@ Step 8 : Replace the filepaths to store the data, models and visuals in the dire
 Step 9 : Save and Run the Obesity Multi-Class Prediction.pynb file.
 Step 10 : Wait for the file to complete executing the program and then check the output along with the contents in the data, models and visuals directories.
 
-#### K) Deployment Plan and Future course
+#### Deployment Plan and Future course
 
 After confirming the proper functioning of the project, I have uploaded the project folder with all the necessary files and folders to a newly created repository named (mushroomclassification) on my GitHub profile. 
 
